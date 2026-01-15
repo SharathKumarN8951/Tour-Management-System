@@ -27,8 +27,8 @@ $amount = (int)($booking['total_amount'] * 100); // paise
 /* --------------------------
    RAZORPAY TEST KEYS
 --------------------------- */
-$key_id     = "rzp_test_S3OluL5LhkwUCh";
-$key_secret = "XFZD6guKo5TehXtBas9k7pYn";
+$key_id     = "";    ### { add your api key}
+$key_secret = "";
 
 /* --------------------------
    CREATE ORDER
@@ -107,3 +107,4 @@ new Razorpay(options).open();
 
 </body>
 </html>
+
