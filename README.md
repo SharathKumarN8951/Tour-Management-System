@@ -15,6 +15,15 @@ This project allows users to browse tour packages, make bookings, and complete p
 - Online Payment Gateway Integration
 - View Booking History
 - Email Notifications (PHPMailer – SMTP)
+- 
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](screenshots/Tour_Home.png)
+
+### Packages Page (Dark Mode)
+![Home Dark](screenshots/Packages.png)
+
 
 ###  Admin Module
 - Admin Login
