@@ -1,14 +1,14 @@
 
-# 🧳 Tour Management System (PHP & MySQL)
+#  Tour Management System (PHP & MySQL)
 
 A full-stack **web-based Tour Management System** developed using **PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap**.  
 This project allows users to browse tour packages, make bookings, and complete payments online, while admins manage tours and bookings through a dashboard.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User Module
+###  User Module
 - User Registration & Secure Login
 - Browse Tour Packages
 - Book Tour Packages
@@ -16,7 +16,7 @@ This project allows users to browse tour packages, make bookings, and complete p
 - View Booking History
 - Email Notifications (PHPMailer – SMTP)
 
-### 🛠️ Admin Module
+###  Admin Module
 - Admin Login
 - Add / Update / Delete Tour Packages
 - View All Bookings
@@ -25,7 +25,7 @@ This project allows users to browse tour packages, make bookings, and complete p
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 - Password hashing
 - Session-based authentication
 - Secure SMTP email handling (credentials excluded from GitHub)
@@ -33,7 +33,7 @@ This project allows users to browse tour packages, make bookings, and complete p
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology |
 |--------------|------------|
@@ -46,7 +46,7 @@ This project allows users to browse tour packages, make bookings, and complete p
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 tour-management-system/
