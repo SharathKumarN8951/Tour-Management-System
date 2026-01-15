@@ -51,6 +51,9 @@ This project allows users to browse tour packages, make bookings, and complete p
 3. Configure database in config.php
 4. Run using XAMPP / WAMP
 
+## Author 
+Sharath Kumar N
+
 ##  Project Structure
 
 ```text
