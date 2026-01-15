@@ -45,6 +45,11 @@ This project allows users to browse tour packages, make bookings, and complete p
 | Server       | Apache (XAMPP / WAMP) |
 
 ---
+## How to Run 
+1. Clone the repository
+2. Import the SQL file from /database
+3. Configure database in config.php
+4. Run using XAMPP / WAMP
 
 ##  Project Structure
 
