@@ -51,9 +51,12 @@ This project allows users to browse tour packages, make bookings, and complete p
 3. Configure database in config.php
 4. Run using XAMPP / WAMP
 
-## Author 
-Sharath Kumar N
+## 👨‍💻 Author
 
+**Sharath Kumar N**  
+GitHub: https://github.com/SharathKumarN8951
+LinkedIn: www.linkedin.com/in/sharath-kumar-n-ai
+ 
 ##  Project Structure
 
 ```text
