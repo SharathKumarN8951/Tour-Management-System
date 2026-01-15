@@ -19,8 +19,8 @@ function send_reset_mail(string $toEmail, string $resetLink): bool
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'sharatnsharu@gmail.com';     // TODO: change
-        $mail->Password   = 'rfwl ftmq ciom kwjp';       // TODO: change (Gmail App Password)
+        $mail->Username   = 'sharath@gmail.com';     // TODO: change ## add your original gmail
+        $mail->Password   = 'add_your app pass';       // TODO: change (Gmail App Password)
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
@@ -47,3 +47,4 @@ function send_reset_mail(string $toEmail, string $resetLink): bool
         return false;
     }
 }
+
